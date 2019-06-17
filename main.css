@@ -112,7 +112,7 @@ main{
   -webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
   -moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
   box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  padding: 51rem;
+  padding: 5rem;
   margin-top: 2.5rem;
 }
 .post{
