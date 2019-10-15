@@ -36,7 +36,7 @@ main {
   padding: 2.5rem;
 }
 .img {
-  height: 35vh;
+  height: 35%;
   border-radius: 5400rem;
   padding: 2.5rem;
 }
@@ -101,6 +101,7 @@ Header */
   -moz-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   padding: 2.5rem;
+  border-radius: .5rem;
 }
 .professionals_text {
   font-family: "Cinzel", serif;
@@ -119,6 +120,8 @@ Blog space
   box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   padding: 5rem;
   margin-top: 2.5rem;
+  border-radius: .5rem;
 }
 .post{
+
 }
