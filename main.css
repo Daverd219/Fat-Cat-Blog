@@ -91,6 +91,7 @@ Header */
   text-decoration: none;
   color: #ffffff;
   font-size: 1.8rem;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
 }
 .professionals {
   display: flex;
