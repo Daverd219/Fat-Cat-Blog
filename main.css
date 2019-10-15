@@ -28,7 +28,18 @@ body {
   display: flex;
   justify-content: center;
 }
-
+.text {
+  font-size: 5.8rem;
+  font-family: "Poppins", sans-serif;
+}
+.main{
+  padding: 2.5rem;
+}
+.img{
+  height: 35vh;
+  border-radius: 5400rem;
+  padding: 2.5rem;
+}
 /* Fonts
 
 font-family: 'Ranga', cursive;
@@ -65,10 +76,6 @@ Header */
   text-align: center;
   height: 95vh;
 }
-.text {
-  font-size: 5.8rem;
-  font-family: "Poppins", sans-serif;
-}
 .header_secondary_text {
   font-size: 4.2rem;
   font-family: 'Ranga', cursive;
@@ -85,9 +92,6 @@ Header */
     color: #FFFFFF;
     font-size: 1.8rem;
 }
-main{
-  padding: 2.5rem;
-}
 .professionals{
   display: flex;
   flex-flow: row;
@@ -95,11 +99,6 @@ main{
   -webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
   -moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
   box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  padding: 2.5rem;
-}
-.img{
-  height: 35vh;
-  border-radius: 5400rem;
   padding: 2.5rem;
 }
 .professionals_text{
