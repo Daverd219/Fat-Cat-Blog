@@ -29,17 +29,18 @@ body {
   justify-content: center;
 }
 .text {
-  font-size: 5.8rem;
+  font-size: 5%;
   font-family: "Poppins", sans-serif;
 }
-.main{
+.main {
   padding: 2.5rem;
 }
-.img{
+.img {
   height: 35vh;
   border-radius: 5400rem;
   padding: 2.5rem;
 }
+
 /* Fonts
 
 font-family: 'Ranga', cursive;
@@ -51,23 +52,22 @@ font-family: 'Cinzel', serif;
 
 Header */
 
-.header{
+.header {
   height: 100vh;
   color: var(--color-quinary);
   text-shadow: 4px 4px 4px #000000;
   background-image: linear-gradient(
-    to right bottom,
-    rgba(200,187,173,.3),
-    rgba(200,187,173,.3)
-  ),
-  url(img/banner.jpg);
+      to right bottom,
+      rgba(200, 187, 173, 0.3),
+      rgba(200, 187, 173, 0.3)
+    ),
+    url(img/banner.jpg);
   background-size: cover;
-  -webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  -moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   padding: 2.5rem;
 }
-
 .header_text {
   display: flex;
   justify-content: center;
@@ -78,42 +78,41 @@ Header */
 }
 .header_secondary_text {
   font-size: 4.2rem;
-  font-family: 'Ranga', cursive;
+  font-family: "Ranga", cursive;
   color: var(--color-tertiary);
 }
-.header_btn_parent{
-    padding: 2.5rem;
-    background-color: var(--color-secondary);
-    border-radius: 10rem;
-    font-family: 'Roboto Slab', serif;
+.header_btn_parent {
+  padding: 2.5rem;
+  background-color: var(--color-secondary);
+  border-radius: 10rem;
+  font-family: "Roboto Slab", serif;
 }
-.header_btn{
-    text-decoration: none;
-    color: #FFFFFF;
-    font-size: 1.8rem;
+.header_btn {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.8rem;
 }
-.professionals{
+.professionals {
   display: flex;
   flex-flow: row;
   background-color: var(--color-quarternary);
-  -webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  -moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   padding: 2.5rem;
 }
-.professionals_text{
-  font-family: 'Cinzel', serif;
+.professionals_text {
+  font-family: "Cinzel", serif;
   font-size: 4.5rem;
   padding: 2.5rem;
 }
-.blog{
+.blog {
   background-color: var(--color-quarternary);
-  -webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  -moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-  box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.75);
   padding: 5rem;
   margin-top: 2.5rem;
 }
-.post{
-
+.post {
 }
