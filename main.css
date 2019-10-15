@@ -40,6 +40,10 @@ main {
   border-radius: 5400rem;
   padding: 2.5rem;
 }
+.img_parent {
+  height: 35vh;
+
+}
 
 /* Fonts
 
